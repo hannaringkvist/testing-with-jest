@@ -1,0 +1,19 @@
+{
+  "name": "testing-with-jest",
+  "version": "1.0.0",
+  "description": "A school lab session",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/hannaringkvist/testing-with-jest.git"
+  },
+  "author": "Hanna Ringkvist",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hannaringkvist/testing-with-jest/issues"
+  },
+  "homepage": "https://github.com/hannaringkvist/testing-with-jest#readme"
+}
