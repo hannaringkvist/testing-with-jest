@@ -28,7 +28,7 @@ describe('Clicking "Vad finns överst på stacken?"', () => {
 		let btn = await driver.findElement(By.id('peek'));
 		await btn.click();
 		let text = await driver.findElement(By.id('top_of_stack')).getText();
-		expect(text).toEqual("undefined");
+		expect(text).toEqual("Stacken är tom");
 	});
 });
 
